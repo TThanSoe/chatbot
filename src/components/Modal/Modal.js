@@ -1,7 +1,4 @@
 import React, { Fragment } from "react";
-// import Button from "../Button/Button";
-// import CloseIcon from "../../assets/close.svg";
-// import MessageInput from "../MessageInput/MessageInput";
 
 import "./Modal.css";
 
